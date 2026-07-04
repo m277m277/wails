@@ -20,6 +20,7 @@ After processing, the content will be moved to the main changelog and this file 
 - Add Android physical device task targets and resume camera/location permissions in [PR](https://github.com/wailsapp/wails/pull/5735) by @taliesin-ai
 
 ## Changed
+- Bump `webview2` to v1.0.24 ([release notes](https://github.com/m277m277/wails/releases/tag/webview2%2Fv1.0.24)).
 <!-- Changes in existing functionality -->
 
 ## Fixed
